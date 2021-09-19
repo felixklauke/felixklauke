@@ -6,7 +6,7 @@
 
 I'm happy to support traefik as an ambassador
 
-![Traefik Ambassador](Ambassador-logo-color3x.png | width=100)
+![Traefik Ambassador](Ambassador-logo-color3x.png)
 
 <!--
 **FelixKlauke/felixklauke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
