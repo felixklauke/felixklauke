@@ -5,9 +5,9 @@
 ##### Teams
 
 <p align="center">
-  <img alt="Light" src="img/treaefik.png" width="45%">
+  <img alt="Light" src="img/treaefik.png" width="55%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="img/campus-expert.png" width="45%">
+  <img alt="Dark" src="img/campus-expert.png" width="35%">
 </p>
 
 <!--
