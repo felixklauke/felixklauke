@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
-##### Awesome Projects I'm working on
+### Awesome Projects I'm working on
 
-##### Teams
+### Teams
 
 <p align="center">
   <img alt="Light" src="img/treaefik.png" width="55%">
