@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-#### GitHub Campus Expert
+##### Awesome Projects I'm working on
 
-#### Traefik 
+##### Teams
 
-I'm happy to support traefik as an ambassador
-
-![Traefik Ambassador](Ambassador-logo-color3x.png)
+<p align="center">
+  <img alt="Light" src="img/treaefik.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="img/campus-expert.png" width="45%">
+</p>
 
 <!--
 **FelixKlauke/felixklauke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
