@@ -2,12 +2,12 @@
 
 ### Awesome Projects I'm worked on
 
-- [vicuna](https://github.com/vicuna-io) | How to write Better Software Online (Fast).
-- [dinoscape](https://dinoscape.com) | As a brave caveman, save the dinosaurs from extinction! Try to escape from meteorids, lava, sharp teeth and deep abysses together with your riding dinosaur.
-- [MagFlip](https://magflip.com) | "Fidget Spinner 2021"
-- [GommeHDnet](https://gommehd.net) | GommeHD.net is one of the world leading Minecraft server networks. With a community of over 4 million players and 10000 slots.
-- [Joystack](https://joystack.com) | Create and Discover Game Servers
-- [mc-host24](https://mc-host24.de/) | 
+- [vicuna](https://github.com/vicuna-io)
+- [dinoscape](https://dinoscape.com) 
+- [MagFlip](https://magflip.com) 
+- [GommeHDnet](https://gommehd.net) 
+- [Joystack](https://joystack.com)
+- [mc-host24](https://mc-host24.de/)
 
 ### Stats
 
