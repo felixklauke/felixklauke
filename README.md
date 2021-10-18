@@ -2,6 +2,10 @@
 
 ### Awesome Projects I'm working on
 
+### Stats
+
+![FelixKlauke's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelixKlauke&count_private=true)
+
 ### Teams
 
 <p align="center">
