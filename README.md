@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### Awesome Projects I'm worked on
+### Awesome Projects I've worked on
 
 - [vicuna](https://github.com/vicuna-io)
 - [dinoscape](https://dinoscape.com) 
