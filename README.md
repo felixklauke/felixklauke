@@ -19,7 +19,7 @@ I'm Felix Klauke, a 23 y/o IT-nerd and entrepreneur.
 
 ### Stats
 
-![FelixKlauke's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelixKlauke&count_private=true)
+![FelixKlauke's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelixKlauke&show_icons=true&count_private=true)
 
 ### Teams
 
