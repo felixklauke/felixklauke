@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Felix Klauke, a 23 y/o IT-nerd and entrepreneur. 
+I'm Felix Klauke, a 24 y/o IT-nerd and entrepreneur. 
 
 - 🔭 I’m currently working on my own company @klauke-enterprises
 - 🌱 I’m currently learning to design user experience focussed systems
